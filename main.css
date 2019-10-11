@@ -1,0 +1,95 @@
+		
+			body{
+				 background-image: url("https://www.villagevoice.com/wp-content/uploads/2013/07/8918923.0-1366x738.jpg");
+                background-repeat: no-repeat;
+             	background-size: cover;
+            }
+                
+			header{
+				text-align: center;
+				border: 10px solid black;
+				color: green ;
+				size: 300px;
+				font-family: 'Mansalva', cursive;
+			}
+			p{
+				font-size: 30px;
+				color:pink;
+				font-family: 'Grenze', serif;
+			}
+			h1{
+				color:white
+				;
+			}
+			h2{
+				color: yellow;
+				font-family: 'Hepta Slab', serif;
+				text-align: center;
+
+			}
+
+			main{
+				width: 650px;
+				margin-bottom: 30px;
+				margin-left: auto;
+				margin-right: auto;
+			}
+	
+			.Vector{
+				width:271px;
+				
+
+			}
+			.inventions{
+				 width:300px;
+				
+				
+			}
+			.Gru{
+				width:295px;
+				
+				
+				}
+
+			.body{
+
+   				 display: flex;
+   				 flex-direction: row-reverse;
+  				 justify-content: space-around;
+   				 margin-top: 20px;
+			
+			}
+
+            .button {
+                background-color:purple; 
+                border: none;
+                border-radius: 15px;  
+                color:white;
+                cursor: pointer;
+                display: inline-block;
+                font-size: 24px;
+                padding: 15px 25px;
+                margin-left:300px;
+                outline: none;
+                text-align: center;
+            }
+            
+            button:hover {background-color:violet}
+
+            button:active {
+            background-color:pink;
+            box-shadow: 0 5px #666;
+            transform: translateY(4px);
+            }
+           
+           
+          
+         .linkbox {
+     border: 5px solid black;
+     
+
+
+    
+}
+
+
